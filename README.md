@@ -1,5 +1,4 @@
 # [Yandex_Practicum_QA-engineer](https://practicum.yandex.ru/qa-engineer/)
-![This is an image](https://www.novochag.ru/upload/img_cache/695/69576392fa68f1617009d54196284dbb_ce_1920x1326x0x603_cropped_1332x888.webp)
 
 **Спринт 1** Проектирование тестов
 >Введение в тест-дизайн и тест-анализ. Тестирование сервиса "Яндекс.Маршруты". Составление mind-map, блок-схем. Создание чек-листов и тест-кейсов.
